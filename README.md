@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujanmaji
+- 👋 Hi, I’m Sujan Maji, CSE student.
 - 👀 I’m interested in Full Stack Deveopment
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on open source projects.
